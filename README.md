@@ -1,4 +1,5 @@
 # PixelCamera2D
+Unity 2d 像素相机，即让显示的图像像素化
 A Pixel Perfect Camera for 2D Games in Unity.
 
 ##### This is an early work in progress. Please report any issues you find. Also, feel free to contribute fixes or additions.
